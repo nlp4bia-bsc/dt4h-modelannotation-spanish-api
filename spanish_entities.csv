@@ -1,0 +1,584 @@
+valvulopatía,signs and symptoms,368009,SNOMEDCT-ES,2024-03-31
+taquicardia,signs and symptoms,3424008,SNOMEDCT-ES,2024-03-31
+presión arterial media,signs and symptoms,6797001,SNOMEDCT-ES,2024-03-31
+ex-fumador,signs and symptoms,8517006,SNOMEDCT-ES,2024-03-31
+lipoproteína de alta densidad,signs and symptoms,9422000,SNOMEDCT-ES,2024-03-31
+enfermedad pulmonar obstructiva crónica,signs and symptoms,13645005,SNOMEDCT-ES,2024-03-31
+lipoproteína de baja densidad,signs and symptoms,22244007,SNOMEDCT-ES,2024-03-31
+infarto de miocardio,signs and symptoms,22298006,SNOMEDCT-ES,2024-03-31
+presión venosa yugular aumentada,signs and symptoms,22447003,SNOMEDCT-ES,2024-03-31
+medición de albúmina,signs and symptoms,26758005,SNOMEDCT-ES,2024-03-31
+peso corporal,signs and symptoms,27113001,SNOMEDCT-ES,2024-03-31
+dolor de pecho,signs and symptoms,29857009,SNOMEDCT-ES,2024-03-31
+admisión hospitalaria,signs and symptoms,32485007,SNOMEDCT-ES,2024-03-31
+ferritina,signs and symptoms,32789000,SNOMEDCT-ES,2024-03-31
+hipertiroidismo,signs and symptoms,34486009,SNOMEDCT-ES,2024-03-31
+trastorno depresivo,signs and symptoms,35489007,SNOMEDCT-ES,2024-03-31
+hemoglobina,signs and symptoms,38082009,SNOMEDCT-ES,2024-03-31
+hipertensión arterial,signs and symptoms,38341003,SNOMEDCT-ES,2024-03-31
+sodio,signs and symptoms,39972003,SNOMEDCT-ES,2024-03-31
+rales crepitantes,signs and symptoms,48409008,SNOMEDCT-ES,2024-03-31
+fibrilación auricular,signs and symptoms,49436004,SNOMEDCT-ES,2024-03-31
+demencia,signs and symptoms,52448006,SNOMEDCT-ES,2024-03-31
+disnea paroxística nocturna,signs and symptoms,55442000,SNOMEDCT-ES,2024-03-31
+derrame pleural,signs and symptoms,60046008,SNOMEDCT-ES,2024-03-31
+gamma-glutamiltransferasa,signs and symptoms,60153001,SNOMEDCT-ES,2024-03-31
+índice de masa corporal,signs and symptoms,60621009,SNOMEDCT-ES,2024-03-31
+pulso irregular,signs and symptoms,61086009,SNOMEDCT-ES,2024-03-31
+proteína reactiva C,signs and symptoms,61425002,SNOMEDCT-ES,2024-03-31
+SIDA,signs and symptoms,62479008,SNOMEDCT-ES,2024-03-31
+tos nocturna,signs and symptoms,62548007,SNOMEDCT-ES,2024-03-31
+ortopnea,signs and symptoms,62744007,SNOMEDCT-ES,2024-03-31
+reflujo hepatoyugular,signs and symptoms,72196001,SNOMEDCT-ES,2024-03-31
+diabetes mellitus,signs and symptoms,73211009,SNOMEDCT-ES,2024-03-31
+fumador,signs and symptoms,77176002,SNOMEDCT-ES,2024-03-31
+síndrome de apnea obstructiva del sueño,signs and symptoms,78275009,SNOMEDCT-ES,2024-03-31
+pérdida del apetito,signs and symptoms,79890006,SNOMEDCT-ES,2024-03-31
+tasa de filtración glomerular,signs and symptoms,80274001,SNOMEDCT-ES,2024-03-31
+palpitaciones,signs and symptoms,80313002,SNOMEDCT-ES,2024-03-31
+hepatomegalia,signs and symptoms,80515008,SNOMEDCT-ES,2024-03-31
+oliguria,signs and symptoms,83128009,SNOMEDCT-ES,2024-03-31
+insuficiencia cardíaca,signs and symptoms,84114007,SNOMEDCT-ES,2024-03-31
+fatiga,signs and symptoms,84229001,SNOMEDCT-ES,2024-03-31
+colesterol,signs and symptoms,84698008,SNOMEDCT-ES,2024-03-31
+triglicérido,signs and symptoms,85600001,SNOMEDCT-ES,2024-03-31
+miocardiopatía,signs and symptoms,85898001,SNOMEDCT-ES,2024-03-31
+infección por virus de la inmunodeficiencia humana,signs and symptoms,86406008,SNOMEDCT-ES,2024-03-31
+potasio,signs and symptoms,88480006,SNOMEDCT-ES,2024-03-31
+soplo cardíaco,signs and symptoms,88610006,SNOMEDCT-ES,2024-03-31
+descenso de peso,signs and symptoms,89362005,SNOMEDCT-ES,2024-03-31
+troponina T,signs and symptoms,102682001,SNOMEDCT-ES,2024-03-31
+troponina I,signs and symptoms,102683006,SNOMEDCT-ES,2024-03-31
+medición de nitrógeno ureico en sangre,signs and symptoms,105011006,SNOMEDCT-ES,2024-03-31
+determinación del índice de saturación de transferrina,signs and symptoms,165730006,SNOMEDCT-ES,2024-03-31
+fecha de nacimiento,signs and symptoms,184099003,SNOMEDCT-ES,2024-03-31
+angina de pecho,signs and symptoms,194828000,SNOMEDCT-ES,2024-03-31
+accidente cerebrovascular,signs and symptoms,230690007,SNOMEDCT-ES,2024-03-31
+injerto - puente de arteria coronaria,signs and symptoms,232717009,SNOMEDCT-ES,2024-03-31
+enfermedad del hígado,signs and symptoms,235856003,SNOMEDCT-ES,2024-03-31
+mujer,signs and symptoms,248152002,SNOMEDCT-ES,2024-03-31
+varón,signs and symptoms,248153007,SNOMEDCT-ES,2024-03-31
+fracción de eyección del ventrículo izquierdo,signs and symptoms,250908004,SNOMEDCT-ES,2024-03-31
+tamaño de la cavidad ventricular izquierda al final de la sístole,signs and symptoms,250931004,SNOMEDCT-ES,2024-03-31
+fracción de eyección del ventrículo derecho,signs and symptoms,250939002,SNOMEDCT-ES,2024-03-31
+tipo de ritmo cardíaco,signs and symptoms,251149006,SNOMEDCT-ES,2024-03-31
+eje QRS,signs and symptoms,251196003,SNOMEDCT-ES,2024-03-31
+duración del complejo QRS,signs and symptoms,251208001,SNOMEDCT-ES,2024-03-31
+peso aumentado,signs and symptoms,262286000,SNOMEDCT-ES,2024-03-31
+diálisis renal,signs and symptoms,265764009,SNOMEDCT-ES,2024-03-31
+ataque isquémico transitorio,signs and symptoms,266257000,SNOMEDCT-ES,2024-03-31
+nunca fumó tabaco,signs and symptoms,266919005,SNOMEDCT-ES,2024-03-31
+tabaquismo desconocido,signs and symptoms,266927001,SNOMEDCT-ES,2024-03-31
+disnea,signs and symptoms,267036007,SNOMEDCT-ES,2024-03-31
+tumefacción de tobillo,signs and symptoms,267039000,SNOMEDCT-ES,2024-03-31
+alteración de la tolerancia al ejercicio,signs and symptoms,267044007,SNOMEDCT-ES,2024-03-31
+medición de albúmina urinaria,signs and symptoms,271000000,SNOMEDCT-ES,2024-03-31
+medición urinaria del índice albúmina/creatinina,signs and symptoms,271075006,SNOMEDCT-ES,2024-03-31
+medición urinaria de creatina,signs and symptoms,271261008,SNOMEDCT-ES,2024-03-31
+síncope,signs and symptoms,271594007,SNOMEDCT-ES,2024-03-31
+edema periférico,signs and symptoms,271809000,SNOMEDCT-ES,2024-03-31
+taquipnea,signs and symptoms,271823003,SNOMEDCT-ES,2024-03-31
+tercer ruido cardíaco,signs and symptoms,277455002,SNOMEDCT-ES,2024-03-31
+hallazgo relacionado con el ritmo cardíaco,signs and symptoms,301112006,SNOMEDCT-ES,2024-03-31
+superficie corporal,signs and symptoms,301898006,SNOMEDCT-ES,2024-03-31
+implante cardiovascular,signs and symptoms,303490004,SNOMEDCT-ES,2024-03-31
+implante vascular,signs and symptoms,303617005,SNOMEDCT-ES,2024-03-31
+lugar de origen,signs and symptoms,307117005,SNOMEDCT-ES,2024-03-31
+respiración de Cheyne-Stokes,signs and symptoms,309155007,SNOMEDCT-ES,2024-03-31
+neoplasia maligna,signs and symptoms,363346000,SNOMEDCT-ES,2024-03-31
+frecuencia cardíaca,signs and symptoms,364075005,SNOMEDCT-ES,2024-03-31
+estado de ánimo deprimido,signs and symptoms,366979004,SNOMEDCT-ES,2024-03-31
+antagonista de receptor de aldosterona,signs and symptoms,372603003,SNOMEDCT-ES,2024-03-31
+diurético de asa,signs and symptoms,372691009,SNOMEDCT-ES,2024-03-31
+diurético,signs and symptoms,372695000,SNOMEDCT-ES,2024-03-31
+inhibidor de la enzima convertidora de angiotensina,signs and symptoms,372733002,SNOMEDCT-ES,2024-03-31
+vasodilatador,signs and symptoms,372787008,SNOMEDCT-ES,2024-03-31
+anticoagulante,signs and symptoms,372862008,SNOMEDCT-ES,2024-03-31
+inhibidor de HMG-CoA reductasa,signs and symptoms,372912004,SNOMEDCT-ES,2024-03-31
+antagonista del receptor de angiotensina II,signs and symptoms,372913009,SNOMEDCT-ES,2024-03-31
+agente betabloqueante,signs and symptoms,373254001,SNOMEDCT-ES,2024-03-31
+bloqueador de los canales de calcio,signs and symptoms,373304005,SNOMEDCT-ES,2024-03-31
+ascitis,signs and symptoms,389026000,SNOMEDCT-ES,2024-03-31
+reumatismo,signs and symptoms,396332003,SNOMEDCT-ES,2024-03-31
+cambio fraccional de área de ventrículo izquierdo,signs and symptoms,399287000,SNOMEDCT-ES,2024-03-31
+tensión arterial sistólica durante la admisión,signs and symptoms,399304008,SNOMEDCT-ES,2024-03-31
+fecha de admisión,signs and symptoms,399423000,SNOMEDCT-ES,2024-03-31
+infarto agudo de miocardio con elevación del segmento ST,signs and symptoms,401303003,SNOMEDCT-ES,2024-03-31
+infarto agudo de miocardio sin elevación del segmento ST,signs and symptoms,401314000,SNOMEDCT-ES,2024-03-31
+mareo,signs and symptoms,404640003,SNOMEDCT-ES,2024-03-31
+glucósido digitálico,signs and symptoms,406759007,SNOMEDCT-ES,2024-03-31
+péptido natriurético cerebral,signs and symptoms,407059007,SNOMEDCT-ES,2024-03-31
+cardiopatía isquémica,signs and symptoms,414545008,SNOMEDCT-ES,2024-03-31
+propéptido natriurético tipo B N-terminal,signs and symptoms,414798009,SNOMEDCT-ES,2024-03-31
+intervención coronaria percutánea,signs and symptoms,415070008,SNOMEDCT-ES,2024-03-31
+muerte,signs and symptoms,419620001,SNOMEDCT-ES,2024-03-31
+trasplante de corazón,signs and symptoms,420291005,SNOMEDCT-ES,2024-03-31
+clasificación de la New York Heart Association,signs and symptoms,420816009,SNOMEDCT-ES,2024-03-31
+ivabradina,signs and symptoms,421228002,SNOMEDCT-ES,2024-03-31
+saturación de oxígeno en sangre venosa,signs and symptoms,442349007,SNOMEDCT-ES,2024-03-31
+saturación de oxígeno en sangre arterial,signs and symptoms,442476006,SNOMEDCT-ES,2024-03-31
+presión sanguínea diastólica al ingreso,signs and symptoms,446226005,SNOMEDCT-ES,2024-03-31
+fuma tabaco diariamente,signs and symptoms,449868002,SNOMEDCT-ES,2024-03-31
+inhibidor del cotransportador de sodio-glucosa tipo 2,signs and symptoms,703673007,SNOMEDCT-ES,2024-03-31
+enfermedad renal crónica,signs and symptoms,709044004,SNOMEDCT-ES,2024-03-31
+medición de proteína C reactiva con técnica de alta sensibilidad,signs and symptoms,711357009,SNOMEDCT-ES,2024-03-31
+onda a,signs and symptoms,723240002,SNOMEDCT-ES,2024-03-31
+hemoglobina glucosilada A1c,signs and symptoms,733830002,SNOMEDCT-ES,2024-03-31
+inhibidor de la agregación plaquetaria,signs and symptoms,771452004,SNOMEDCT-ES,2024-03-31
+producto con sacubitrilo y valsartán como únicos ingredientes,signs and symptoms,777480008,SNOMEDCT-ES,2024-03-31
+bloqueador de canal de sodio,signs and symptoms,782436006,SNOMEDCT-ES,2024-03-31
+enfermedad arterial periférica,signs and symptoms,840580004,SNOMEDCT-ES,2024-03-31
+sustancia con mecanismo de acción de inhibidor del sistema renina-angiotensina,signs and symptoms,866173006,SNOMEDCT-ES,2024-03-31
+altura corporal,signs and symptoms,1153637007,SNOMEDCT-ES,2024-03-31
+fumador ocasional de tabaco,signs and symptoms,428041000124106,SNOMEDCT-ES,2024-03-31
+flumetiazida,Medication,6513000,SNOMEDCT-ES,2024-03-31
+clorotiazida sódica,Medication,8252004,SNOMEDCT-ES,2024-03-31
+triclormetiazida,Medication,11473005,SNOMEDCT-ES,2024-03-31
+clorhidrato de diltiazem,Medication,12218006,SNOMEDCT-ES,2024-03-31
+hexanitrato de inositol,Medication,12970004,SNOMEDCT-ES,2024-03-31
+clorhidrato de verapamilo,Medication,14340003,SNOMEDCT-ES,2024-03-31
+mercaptomerina sódica,Medication,30333004,SNOMEDCT-ES,2024-03-31
+mercumatilina,Medication,33667000,SNOMEDCT-ES,2024-03-31
+ciclotiazida,Medication,37006008,SNOMEDCT-ES,2024-03-31
+amisometradina,Medication,39263003,SNOMEDCT-ES,2024-03-31
+amil nitrato,Medication,41153003,SNOMEDCT-ES,2024-03-31
+quinetazona,Medication,41261002,SNOMEDCT-ES,2024-03-31
+diurético de sulfonamida,Medication,43585000,SNOMEDCT-ES,2024-03-31
+enalaprilat,Medication,48052001,SNOMEDCT-ES,2024-03-31
+meretoxilina procaína,Medication,49022000,SNOMEDCT-ES,2024-03-31
+metazolamida,Medication,53052005,SNOMEDCT-ES,2024-03-31
+tetranitrato de eritritilo,Medication,62368002,SNOMEDCT-ES,2024-03-31
+etoxizolamida,Medication,63203003,SNOMEDCT-ES,2024-03-31
+ticrinafeno,Medication,64029000,SNOMEDCT-ES,2024-03-31
+benztiazida,Medication,66290002,SNOMEDCT-ES,2024-03-31
+clormerodrina,Medication,74589005,SNOMEDCT-ES,2024-03-31
+etacrinato de sodio,Medication,75341007,SNOMEDCT-ES,2024-03-31
+teobromina,Medication,75371004,SNOMEDCT-ES,2024-03-31
+aminometradina,Medication,80253002,SNOMEDCT-ES,2024-03-31
+meralurida,Medication,85391002,SNOMEDCT-ES,2024-03-31
+clorazanilo,Medication,88802007,SNOMEDCT-ES,2024-03-31
+canrenona,Medication,96291007,SNOMEDCT-ES,2024-03-31
+norverapamilo,Medication,96297006,SNOMEDCT-ES,2024-03-31
+torasemida,Medication,108476002,SNOMEDCT-ES,2024-03-31
+clorhidrato de nicardipino,Medication,108527006,SNOMEDCT-ES,2024-03-31
+clorhidrato de bepridil,Medication,108531000,SNOMEDCT-ES,2024-03-31
+clorhidrato de moexipril,Medication,108567007,SNOMEDCT-ES,2024-03-31
+fosinopril sódico,Medication,108570006,SNOMEDCT-ES,2024-03-31
+clorhidrato de benazepril,Medication,108573008,SNOMEDCT-ES,2024-03-31
+losartán potásico,Medication,108582002,SNOMEDCT-ES,2024-03-31
+pamabrom,Medication,116552006,SNOMEDCT-ES,2024-03-31
+perindopril erbumina,Medication,129485000,SNOMEDCT-ES,2024-03-31
+mesilato de eprosartán,Medication,129488003,SNOMEDCT-ES,2024-03-31
+mercaptomerina,Medication,362947006,SNOMEDCT-ES,2024-03-31
+nicardipino,Medication,372502001,SNOMEDCT-ES,2024-03-31
+bepridil,Medication,372503006,SNOMEDCT-ES,2024-03-31
+fosinopril,Medication,372510000,SNOMEDCT-ES,2024-03-31
+benazepril,Medication,372511001,SNOMEDCT-ES,2024-03-31
+candesartán,Medication,372512008,SNOMEDCT-ES,2024-03-31
+antagonista de receptor de aldosterona,Medication,372603003,SNOMEDCT-ES,2024-03-31
+enalapril,Medication,372658000,SNOMEDCT-ES,2024-03-31
+agente salurético,Medication,372660003,SNOMEDCT-ES,2024-03-31
+diurético de asa,Medication,372691009,SNOMEDCT-ES,2024-03-31
+diurético,Medication,372695000,SNOMEDCT-ES,2024-03-31
+agente vasodilatador con base de nitratos,Medication,372700007,SNOMEDCT-ES,2024-03-31
+acetazolamida,Medication,372709008,SNOMEDCT-ES,2024-03-31
+inhibidor de la enzima convertidora de angiotensina,Medication,372733002,SNOMEDCT-ES,2024-03-31
+diurético tiazídico,Medication,372747003,SNOMEDCT-ES,2024-03-31
+diurético ahorrador de potasio,Medication,372753003,SNOMEDCT-ES,2024-03-31
+verapamilo,Medication,372754009,SNOMEDCT-ES,2024-03-31
+agente uricosúrico,Medication,372758007,SNOMEDCT-ES,2024-03-31
+clorotiazida,Medication,372782002,SNOMEDCT-ES,2024-03-31
+diurético osmótico,Medication,372792005,SNOMEDCT-ES,2024-03-31
+diltiazem,Medication,372793000,SNOMEDCT-ES,2024-03-31
+antagonista del receptor de angiotensina II,Medication,372913009,SNOMEDCT-ES,2024-03-31
+perindopril,Medication,372916001,SNOMEDCT-ES,2024-03-31
+bloqueador de los canales de calcio,Medication,373304005,SNOMEDCT-ES,2024-03-31
+moexipril,Medication,373442003,SNOMEDCT-ES,2024-03-31
+ácido etacrínico,Medication,373536004,SNOMEDCT-ES,2024-03-31
+losartán,Medication,373567002,SNOMEDCT-ES,2024-03-31
+diurético mercurial,Medication,373751005,SNOMEDCT-ES,2024-03-31
+besilato de amlodipino,Medication,384976003,SNOMEDCT-ES,2024-03-31
+tetranitrato de pentaeritritilo,Medication,386836006,SNOMEDCT-ES,2024-03-31
+gabapentina,Medication,386845007,SNOMEDCT-ES,2024-03-31
+isosorbida,Medication,386853004,SNOMEDCT-ES,2024-03-31
+mononitrato de isosorbida,Medication,386854005,SNOMEDCT-ES,2024-03-31
+nisoldipino,Medication,386861009,SNOMEDCT-ES,2024-03-31
+isradipino,Medication,386862002,SNOMEDCT-ES,2024-03-31
+felodipino,Medication,386863007,SNOMEDCT-ES,2024-03-31
+amlodipino,Medication,386864001,SNOMEDCT-ES,2024-03-31
+trandolapril,Medication,386871006,SNOMEDCT-ES,2024-03-31
+ramipril,Medication,386872004,SNOMEDCT-ES,2024-03-31
+lisinopril,Medication,386873009,SNOMEDCT-ES,2024-03-31
+quinapril,Medication,386874003,SNOMEDCT-ES,2024-03-31
+clorhidrato de quinapril,Medication,386875002,SNOMEDCT-ES,2024-03-31
+valsartán,Medication,386876001,SNOMEDCT-ES,2024-03-31
+irbesartán,Medication,386877005,SNOMEDCT-ES,2024-03-31
+candesartán cilexetilo,Medication,386878000,SNOMEDCT-ES,2024-03-31
+nitrito de amilo,Medication,387038004,SNOMEDCT-ES,2024-03-31
+triamtereno,Medication,387053007,SNOMEDCT-ES,2024-03-31
+telmisartán,Medication,387069000,SNOMEDCT-ES,2024-03-31
+espironolactona,Medication,387078006,SNOMEDCT-ES,2024-03-31
+urea,Medication,387092000,SNOMEDCT-ES,2024-03-31
+sulfinpirazona,Medication,387108008,SNOMEDCT-ES,2024-03-31
+metolazona,Medication,387123003,SNOMEDCT-ES,2024-03-31
+mersalil,Medication,387157006,SNOMEDCT-ES,2024-03-31
+captopril,Medication,387160004,SNOMEDCT-ES,2024-03-31
+maleato de enalapril,Medication,387165009,SNOMEDCT-ES,2024-03-31
+manitol,Medication,387168006,SNOMEDCT-ES,2024-03-31
+prenilamina,Medication,387288001,SNOMEDCT-ES,2024-03-31
+clortalidona,Medication,387324004,SNOMEDCT-ES,2024-03-31
+dinitrato de isosorbida,Medication,387332007,SNOMEDCT-ES,2024-03-31
+probenecid,Medication,387365004,SNOMEDCT-ES,2024-03-31
+meticlotiazida,Medication,387373008,SNOMEDCT-ES,2024-03-31
+nitroglicerina,Medication,387404004,SNOMEDCT-ES,2024-03-31
+indapamida,Medication,387419003,SNOMEDCT-ES,2024-03-31
+furosemida,Medication,387475002,SNOMEDCT-ES,2024-03-31
+oxtrifilina,Medication,387489007,SNOMEDCT-ES,2024-03-31
+nifedipino,Medication,387490003,SNOMEDCT-ES,2024-03-31
+politiazida,Medication,387492006,SNOMEDCT-ES,2024-03-31
+bumetanida,Medication,387498005,SNOMEDCT-ES,2024-03-31
+nimodipino,Medication,387502003,SNOMEDCT-ES,2024-03-31
+amilorida,Medication,387503008,SNOMEDCT-ES,2024-03-31
+clorhidrato de amilorida,Medication,387516008,SNOMEDCT-ES,2024-03-31
+bendroflumetiazida,Medication,387520007,SNOMEDCT-ES,2024-03-31
+hidroclorotiazida,Medication,387525002,SNOMEDCT-ES,2024-03-31
+azapropazona,Medication,391798003,SNOMEDCT-ES,2024-03-31
+clorhidrato de imidapril,Medication,395741003,SNOMEDCT-ES,2024-03-31
+lacidipino,Medication,395764001,SNOMEDCT-ES,2024-03-31
+clorhidrato de lercanidipino,Medication,395768003,SNOMEDCT-ES,2024-03-31
+mersalil sódico,Medication,395784002,SNOMEDCT-ES,2024-03-31
+xipamida,Medication,395923001,SNOMEDCT-ES,2024-03-31
+clopamida,Medication,395940005,SNOMEDCT-ES,2024-03-31
+hidroflumetiazida,Medication,395946004,SNOMEDCT-ES,2024-03-31
+cilazapril,Medication,395947008,SNOMEDCT-ES,2024-03-31
+imidapril,Medication,395984005,SNOMEDCT-ES,2024-03-31
+lercanidipino,Medication,395986007,SNOMEDCT-ES,2024-03-31
+ciclopentiazida,Medication,396009008,SNOMEDCT-ES,2024-03-31
+eprosartán,Medication,396044005,SNOMEDCT-ES,2024-03-31
+fenilalquilamina,Medication,406766008,SNOMEDCT-ES,2024-03-31
+benzotiazepina,Medication,406767004,SNOMEDCT-ES,2024-03-31
+diarilaminopropilamina,Medication,406768009,SNOMEDCT-ES,2024-03-31
+bloqueante de los canales de calcio dihidropiridínico,Medication,406769001,SNOMEDCT-ES,2024-03-31
+mefrusida,Medication,406772008,SNOMEDCT-ES,2024-03-31
+eplerenona,Medication,407010008,SNOMEDCT-ES,2024-03-31
+maleato de diltiazem,Medication,410870005,SNOMEDCT-ES,2024-03-31
+clorhidrato de amilorida dihidrato,Medication,412082007,SNOMEDCT-ES,2024-03-31
+olmesartán,Medication,412259001,SNOMEDCT-ES,2024-03-31
+olmesartán medoxomilo,Medication,412260006,SNOMEDCT-ES,2024-03-31
+terodilina,Medication,417479000,SNOMEDCT-ES,2024-03-31
+bloqueante de los canales de calcio derivado de la piperazina,Medication,418559008,SNOMEDCT-ES,2024-03-31
+lidoflazina,Medication,418865004,SNOMEDCT-ES,2024-03-31
+diurético derivado de la purina,Medication,419151007,SNOMEDCT-ES,2024-03-31
+piretanida,Medication,419451002,SNOMEDCT-ES,2024-03-31
+canrenoato de potasio,Medication,419615001,SNOMEDCT-ES,2024-03-31
+maleato de amlodipino,Medication,421048000,SNOMEDCT-ES,2024-03-31
+mibefradil,Medication,421651006,SNOMEDCT-ES,2024-03-31
+perhexilina,Medication,421817009,SNOMEDCT-ES,2024-03-31
+conivaptán,Medication,421858002,SNOMEDCT-ES,2024-03-31
+fumarato de aliskireno,Medication,425981005,SNOMEDCT-ES,2024-03-31
+inhibidor de renina,Medication,426228001,SNOMEDCT-ES,2024-03-31
+aliskireno,Medication,426725002,SNOMEDCT-ES,2024-03-31
+clevidipino,Medication,439471002,SNOMEDCT-ES,2024-03-31
+arginina de perindopril,Medication,442509000,SNOMEDCT-ES,2024-03-31
+tolvaptán,Medication,443058000,SNOMEDCT-ES,2024-03-31
+nitrendipino,Medication,444757009,SNOMEDCT-ES,2024-03-31
+azilsartán,Medication,449042005,SNOMEDCT-ES,2024-03-31
+azilsartán medoxomilo,Medication,449561004,SNOMEDCT-ES,2024-03-31
+bromuro de pinaverio,Medication,698023008,SNOMEDCT-ES,2024-03-31
+benzbromarona,Medication,698025001,SNOMEDCT-ES,2024-03-31
+barnidipino,Medication,698052006,SNOMEDCT-ES,2024-03-31
+delapril,Medication,698093003,SNOMEDCT-ES,2024-03-31
+clorhidrato de delapril,Medication,700066002,SNOMEDCT-ES,2024-03-31
+gabapentina enacarbilo,Medication,703122000,SNOMEDCT-ES,2024-03-31
+zofenopril,Medication,703340007,SNOMEDCT-ES,2024-03-31
+zofenopril cálcico,Medication,703341006,SNOMEDCT-ES,2024-03-31
+zofenoprilat,Medication,703342004,SNOMEDCT-ES,2024-03-31
+zofenoprilat,Medication,703342004,SNOMEDCT-ES,2024-03-31
+zofenoprilat arginina,Medication,703343009,SNOMEDCT-ES,2024-03-31
+galopamilo,Medication,703433005,SNOMEDCT-ES,2024-03-31
+clorhidrato de galopamilo,Medication,703434004,SNOMEDCT-ES,2024-03-31
+nilvadipino,Medication,713436005,SNOMEDCT-ES,2024-03-31
+espirapril,Medication,713473008,SNOMEDCT-ES,2024-03-31
+lesinurad,Medication,715259003,SNOMEDCT-ES,2024-03-31
+altizida,Medication,717101002,SNOMEDCT-ES,2024-03-31
+"1,2-dinitroglicerina",Medication,725531004,SNOMEDCT-ES,2024-03-31
+indapamida hemihidrato,Medication,725661001,SNOMEDCT-ES,2024-03-31
+cilazapril monohidratado,Medication,725786001,SNOMEDCT-ES,2024-03-31
+clorhidrato de irbesartán,Medication,734504000,SNOMEDCT-ES,2024-03-31
+cicletanina,Medication,735156005,SNOMEDCT-ES,2024-03-31
+clorhidrato de cicletanina,Medication,735160008,SNOMEDCT-ES,2024-03-31
+tosilato de perindopril,Medication,735174001,SNOMEDCT-ES,2024-03-31
+manidipino,Medication,765322004,SNOMEDCT-ES,2024-03-31
+clorhidrato de manidipino,Medication,765323009,SNOMEDCT-ES,2024-03-31
+producto con sacubitrilo y valsartán como únicos ingredientes,Medication,777480008,SNOMEDCT-ES,2024-03-31
+clorhidrato de terodilina,Medication,782604006,SNOMEDCT-ES,2024-03-31
+amlodipino benzoato,Medication,789067004,SNOMEDCT-ES,2024-03-31
+sustancia con mecanismo de acción de inhibidor del sistema renina-angiotensina,Medication,866173006,SNOMEDCT-ES,2024-03-31
+azilsartán medoxomilo de potasio,Medication,895431005,SNOMEDCT-ES,2024-03-31
+enalapril sódico,Medication,1119307002,SNOMEDCT-ES,2024-03-31
+perindopril erbumina monohidrato,Medication,1119308007,SNOMEDCT-ES,2024-03-31
+finerenona,Medication,1163346008,SNOMEDCT-ES,2024-03-31
+cilnidipino,Medication,1177123004,SNOMEDCT-ES,2024-03-31
+mesilato de amlodipina,Medication,1193663008,SNOMEDCT-ES,2024-03-31
+levamlodipino,Medication,1217308000,SNOMEDCT-ES,2024-03-31
+besilato de levamlodipino,Medication,1217324004,SNOMEDCT-ES,2024-03-31
+clorhidrato de amilorida anhidro,Medication,1268944002,SNOMEDCT-ES,2024-03-31
+cilazapril anhidro,Medication,1268982005,SNOMEDCT-ES,2024-03-31
+lisinopril anhidro,Medication,1269132005,SNOMEDCT-ES,2024-03-31
+Clorhidrato de benidipino,Medication,1303527004,SNOMEDCT-ES,2024-03-31
+Benidipino,Medication,1303528009,SNOMEDCT-ES,2024-03-31
+Hemihidrato de clorhidrato de lercanidipino,Medication,1304158004,SNOMEDCT-ES,2024-03-31
+Maleato de perhexilina,Medication,1332137007,SNOMEDCT-ES,2024-03-31
+Fimasartán,Medication,1332433003,SNOMEDCT-ES,2024-03-31
+Fimasartán potásico trihidrato,Medication,1332434009,SNOMEDCT-ES,2024-03-31
+dihidrato de lisinopril,Medication,341000220102,SNOMEDCT-ES,2024-03-31
+butizida,Medication,20551000122108,SNOMEDCT-ES,2024-03-31
+clorhidrato de tocainida,Medication,2195004,SNOMEDCT-ES,2024-03-31
+clorhidrato de acebutolol,Medication,3597005,SNOMEDCT-ES,2024-03-31
+glucurolactona,Medication,18600008,SNOMEDCT-ES,2024-03-31
+difenadiona,Medication,20368008,SNOMEDCT-ES,2024-03-31
+proteína C,Medication,25525005,SNOMEDCT-ES,2024-03-31
+heparina cálcica,Medication,29725000,SNOMEDCT-ES,2024-03-31
+4-hidroxicumarina,Medication,31011004,SNOMEDCT-ES,2024-03-31
+aglicona,Medication,35135004,SNOMEDCT-ES,2024-03-31
+clorhidrato de esmolol,Medication,35318005,SNOMEDCT-ES,2024-03-31
+ouabaína,Medication,35966009,SNOMEDCT-ES,2024-03-31
+antagonista del receptor adrenérgico beta 2,Medication,37751002,SNOMEDCT-ES,2024-03-31
+anisindiona,Medication,38122009,SNOMEDCT-ES,2024-03-31
+warfarina potásica,Medication,41509001,SNOMEDCT-ES,2024-03-31
+ancrod,Medication,43848004,SNOMEDCT-ES,2024-03-31
+heparina sódica,Medication,50045009,SNOMEDCT-ES,2024-03-31
+fenprocumon,Medication,59488002,SNOMEDCT-ES,2024-03-31
+clorhidrato de lidocaína,Medication,61773008,SNOMEDCT-ES,2024-03-31
+warfarina sódica,Medication,63167009,SNOMEDCT-ES,2024-03-31
+clorhidrato de propranolol,Medication,65088001,SNOMEDCT-ES,2024-03-31
+maleato de timolol,Medication,75359005,SNOMEDCT-ES,2024-03-31
+dicumarol,Medication,79209008,SNOMEDCT-ES,2024-03-31
+fampridina,Medication,80994002,SNOMEDCT-ES,2024-03-31
+clorhidrato de encainida,Medication,81017004,SNOMEDCT-ES,2024-03-31
+bromindiona,Medication,88352008,SNOMEDCT-ES,2024-03-31
+ciclocumarol,Medication,88589005,SNOMEDCT-ES,2024-03-31
+bromadiolona,Medication,95993009,SNOMEDCT-ES,2024-03-31
+alprenolol,Medication,96294004,SNOMEDCT-ES,2024-03-31
+resveratrol,Medication,96383001,SNOMEDCT-ES,2024-03-31
+acarboxiproteína C,Medication,103249001,SNOMEDCT-ES,2024-03-31
+clorhidrato de moracizina,Medication,108489008,SNOMEDCT-ES,2024-03-31
+clorhidrato de mexiletina,Medication,108500007,SNOMEDCT-ES,2024-03-31
+cerivastatina sódica,Medication,108597004,SNOMEDCT-ES,2024-03-31
+atorvastatina cálcica,Medication,108601004,SNOMEDCT-ES,2024-03-31
+enoxaparina sódica,Medication,108983001,SNOMEDCT-ES,2024-03-31
+dalteparina sódica,Medication,108987000,SNOMEDCT-ES,2024-03-31
+ardeparina sódica,Medication,108990006,SNOMEDCT-ES,2024-03-31
+pentosano polisulfato de sodio,Medication,109117004,SNOMEDCT-ES,2024-03-31
+carbasalato cálcico,Medication,111122008,SNOMEDCT-ES,2024-03-31
+cilostazol,Medication,116087001,SNOMEDCT-ES,2024-03-31
+dofetilida,Medication,116107002,SNOMEDCT-ES,2024-03-31
+brodifacoum,Medication,117448002,SNOMEDCT-ES,2024-03-31
+clorhidrato de sotalol,Medication,125691000,SNOMEDCT-ES,2024-03-31
+clorhidrato de metipranolol,Medication,126152000,SNOMEDCT-ES,2024-03-31
+tocainida,Medication,372479006,SNOMEDCT-ES,2024-03-31
+epoprostenol,Medication,372513003,SNOMEDCT-ES,2024-03-31
+enoxaparina,Medication,372562003,SNOMEDCT-ES,2024-03-31
+dalteparina,Medication,372563008,SNOMEDCT-ES,2024-03-31
+danaparoide,Medication,372564002,SNOMEDCT-ES,2024-03-31
+indanodiona,Medication,372573005,SNOMEDCT-ES,2024-03-31
+heparinoide,Medication,372637006,SNOMEDCT-ES,2024-03-31
+antagonista de receptor adrenérgico beta-1,Medication,372661004,SNOMEDCT-ES,2024-03-31
+encainida,Medication,372749000,SNOMEDCT-ES,2024-03-31
+labetalol,Medication,372750000,SNOMEDCT-ES,2024-03-31
+warfarina,Medication,372756006,SNOMEDCT-ES,2024-03-31
+propranolol,Medication,372772003,SNOMEDCT-ES,2024-03-31
+agente antiarrítmico,Medication,372813008,SNOMEDCT-ES,2024-03-31
+acebutolol,Medication,372815001,SNOMEDCT-ES,2024-03-31
+anticoagulante,Medication,372862008,SNOMEDCT-ES,2024-03-31
+heparina,Medication,372877000,SNOMEDCT-ES,2024-03-31
+timolol,Medication,372880004,SNOMEDCT-ES,2024-03-31
+anticoagulante cumarínico,Medication,373307003,SNOMEDCT-ES,2024-03-31
+digitoxina,Medication,373534001,SNOMEDCT-ES,2024-03-31
+pravastatina,Medication,373566006,SNOMEDCT-ES,2024-03-31
+moracizina,Medication,373726009,SNOMEDCT-ES,2024-03-31
+ardeparina,Medication,373731006,SNOMEDCT-ES,2024-03-31
+inhibidor de factor de coagulación Xa,Medication,385577009,SNOMEDCT-ES,2024-03-31
+treprostinilo sódico,Medication,385681001,SNOMEDCT-ES,2024-03-31
+clorhidrato de carteolol,Medication,386867008,SNOMEDCT-ES,2024-03-31
+bisoprolol,Medication,386868003,SNOMEDCT-ES,2024-03-31
+fumarato de bisoprolol,Medication,386869006,SNOMEDCT-ES,2024-03-31
+carvedilol,Medication,386870007,SNOMEDCT-ES,2024-03-31
+clopidogrel,Medication,386952008,SNOMEDCT-ES,2024-03-31
+tirofibán,Medication,386953003,SNOMEDCT-ES,2024-03-31
+danaparoide sódico,Medication,386954009,SNOMEDCT-ES,2024-03-31
+lepirudina,Medication,386955005,SNOMEDCT-ES,2024-03-31
+eptifibatida,Medication,386998009,SNOMEDCT-ES,2024-03-31
+oxcarbazepina,Medication,387025007,SNOMEDCT-ES,2024-03-31
+pindolol,Medication,387102009,SNOMEDCT-ES,2024-03-31
+clorhidrato de betaxolol,Medication,387195001,SNOMEDCT-ES,2024-03-31
+fenitoína,Medication,387220006,SNOMEDCT-ES,2024-03-31
+fenindiona,Medication,387260007,SNOMEDCT-ES,2024-03-31
+lanatósido C,Medication,387338006,SNOMEDCT-ES,2024-03-31
+clorhidrato de levobunolol,Medication,387349000,SNOMEDCT-ES,2024-03-31
+lamotrigina,Medication,387562000,SNOMEDCT-ES,2024-03-31
+oxprenolol,Medication,387583006,SNOMEDCT-ES,2024-03-31
+simvastatina,Medication,387584000,SNOMEDCT-ES,2024-03-31
+nebivolol,Medication,395808005,SNOMEDCT-ES,2024-03-31
+nicorandil,Medication,395809002,SNOMEDCT-ES,2024-03-31
+clorhidrato de oxprenolol,Medication,395817005,SNOMEDCT-ES,2024-03-31
+clorhidrato de celiprolol,Medication,395874008,SNOMEDCT-ES,2024-03-31
+clorhidrato de ticlopidina,Medication,395904008,SNOMEDCT-ES,2024-03-31
+celiprolol,Medication,395960002,SNOMEDCT-ES,2024-03-31
+certoparina,Medication,395961003,SNOMEDCT-ES,2024-03-31
+reviparina,Medication,395998002,SNOMEDCT-ES,2024-03-31
+rosuvastatina cálcica,Medication,406435003,SNOMEDCT-ES,2024-03-31
+glucósido digitálico,Medication,406759007,SNOMEDCT-ES,2024-03-31
+desirudina,Medication,407117009,SNOMEDCT-ES,2024-03-31
+betaxolol,Medication,409276006,SNOMEDCT-ES,2024-03-31
+levobetaxolol,Medication,409277002,SNOMEDCT-ES,2024-03-31
+difetialona,Medication,410940004,SNOMEDCT-ES,2024-03-31
+bemiparina,Medication,410964003,SNOMEDCT-ES,2024-03-31
+heparina porcina,Medication,412201008,SNOMEDCT-ES,2024-03-31
+heparina sódica bovina,Medication,412202001,SNOMEDCT-ES,2024-03-31
+clorhidrato de tirofibán monohidrato,Medication,412321006,SNOMEDCT-ES,2024-03-31
+flosequinán,Medication,412391002,SNOMEDCT-ES,2024-03-31
+fluvastatina sódica,Medication,412392009,SNOMEDCT-ES,2024-03-31
+succinato de metoprolol,Medication,412432007,SNOMEDCT-ES,2024-03-31
+tinzaparina,Medication,412608008,SNOMEDCT-ES,2024-03-31
+inhibidor directo de trombina,Medication,414010005,SNOMEDCT-ES,2024-03-31
+metildigoxina,Medication,418574005,SNOMEDCT-ES,2024-03-31
+levobunolol,Medication,418934007,SNOMEDCT-ES,2024-03-31
+derivado cumarínico de acción prolongada,Medication,420092006,SNOMEDCT-ES,2024-03-31
+ranolazina,Medication,420365007,SNOMEDCT-ES,2024-03-31
+difenacum,Medication,420968001,SNOMEDCT-ES,2024-03-31
+aloxiprina,Medication,421012002,SNOMEDCT-ES,2024-03-31
+amifampridina,Medication,422654000,SNOMEDCT-ES,2024-03-31
+aspirina amortiguada,Medication,426365001,SNOMEDCT-ES,2024-03-31
+fosfato de carvedilol,Medication,426471008,SNOMEDCT-ES,2024-03-31
+prasugrel,Medication,443129001,SNOMEDCT-ES,2024-03-31
+apixabán,Medication,698090000,SNOMEDCT-ES,2024-03-31
+nadroparina cálcica,Medication,698278006,SNOMEDCT-ES,2024-03-31
+ticagrelor,Medication,698805004,SNOMEDCT-ES,2024-03-31
+dabigatrán,Medication,698871007,SNOMEDCT-ES,2024-03-31
+triflusal,Medication,698872000,SNOMEDCT-ES,2024-03-31
+nadroparina,Medication,699946002,SNOMEDCT-ES,2024-03-31
+dabigatrán etexilato,Medication,700029008,SNOMEDCT-ES,2024-03-31
+rosuvastatina,Medication,700067006,SNOMEDCT-ES,2024-03-31
+inhibidor del cotransportador de sodio-glucosa tipo 2,Medication,703673007,SNOMEDCT-ES,2024-03-31
+dapagliflozina,Medication,703674001,SNOMEDCT-ES,2024-03-31
+dapagliflozina propanodiol,Medication,703675000,SNOMEDCT-ES,2024-03-31
+canagliflozina,Medication,703676004,SNOMEDCT-ES,2024-03-31
+fenitoína libre,Medication,706933005,SNOMEDCT-ES,2024-03-31
+edoxabán,Medication,712778008,SNOMEDCT-ES,2024-03-31
+hidrocarbonato de lidocaína,Medication,719905003,SNOMEDCT-ES,2024-03-31
+canagliflozina hemihidratada,Medication,725664009,SNOMEDCT-ES,2024-03-31
+argatroban monohidrato,Medication,725736007,SNOMEDCT-ES,2024-03-31
+clorhidrato de tertatolol,Medication,734455009,SNOMEDCT-ES,2024-03-31
+clorhidrato de nebivolol,Medication,734565001,SNOMEDCT-ES,2024-03-31
+besilato de clopidogrel,Medication,734972007,SNOMEDCT-ES,2024-03-31
+aspirina DL-lisina,Medication,735135008,SNOMEDCT-ES,2024-03-31
+clorhidrato de prasugrel,Medication,735166002,SNOMEDCT-ES,2024-03-31
+betrixabán,Medication,735227003,SNOMEDCT-ES,2024-03-31
+inhibidor de la agregación plaquetaria,Medication,771452004,SNOMEDCT-ES,2024-03-31
+bloqueador de canal de sodio,Medication,782436006,SNOMEDCT-ES,2024-03-31
+heparina disódica porcina,Medication,784398008,SNOMEDCT-ES,2024-03-31
+vericiguat,Medication,1145150000,SNOMEDCT-ES,2024-03-31
+tosilato de edoxabán,Medication,1162278009,SNOMEDCT-ES,2024-03-31
+etabonato de remogliflozina,Medication,1162688000,SNOMEDCT-ES,2024-03-31
+cangrelor tetrasódico,Medication,1217149008,SNOMEDCT-ES,2024-03-31
+rosuvastatina de zinc,Medication,1217216007,SNOMEDCT-ES,2024-03-31
+bromhidrato de prasugrel,Medication,1217508004,SNOMEDCT-ES,2024-03-31
+succinato de (S)-metoprolol,Medication,1240360003,SNOMEDCT-ES,2024-03-31
+tartrato de (S)-metoprolol,Medication,1240361004,SNOMEDCT-ES,2024-03-31
+heparina de litio,Medication,1256102004,SNOMEDCT-ES,2024-03-31
+heparina de amonio,Medication,1259913003,SNOMEDCT-ES,2024-03-31
+argatroban anhidro,Medication,1268948004,SNOMEDCT-ES,2024-03-31
+atorvastatina cálcica anhidra,Medication,1268949007,SNOMEDCT-ES,2024-03-31
+dapagliflozina propanodiol anhidra,Medication,1269001007,SNOMEDCT-ES,2024-03-31
+clorhidrato de lidocaína anhidro,Medication,1269131003,SNOMEDCT-ES,2024-03-31
+clorhidrato de tirofibán anhidro,Medication,1269172001,SNOMEDCT-ES,2024-03-31
+clorhidrato de tirofibán,Medication,1269173006,SNOMEDCT-ES,2024-03-31
+fluindiona,Medication,19351000122101,SNOMEDCT-ES,2024-03-31
+acetil digitoxina,Medication,7834009,SNOMEDCT-ES,2024-03-31
+deslanósido,Medication,16214005,SNOMEDCT-ES,2024-03-31
+aluminio aspirina,Medication,25796002,SNOMEDCT-ES,2024-03-31
+clorofacinona,Medication,26371006,SNOMEDCT-ES,2024-03-31
+fosfato de disopiramida,Medication,49565007,SNOMEDCT-ES,2024-03-31
+clorhidrato de labetalol,Medication,50627005,SNOMEDCT-ES,2024-03-31
+etilbiscumacetato,Medication,51739000,SNOMEDCT-ES,2024-03-31
+tartrato de metoprolol,Medication,72770009,SNOMEDCT-ES,2024-03-31
+heptaminol,Medication,96259006,SNOMEDCT-ES,2024-03-31
+lovastatina,Medication,96303004,SNOMEDCT-ES,2024-03-31
+pravastatina sódica,Medication,96306007,SNOMEDCT-ES,2024-03-31
+lactato de milrinona,Medication,108481006,SNOMEDCT-ES,2024-03-31
+epoprostenol sódico,Medication,108594006,SNOMEDCT-ES,2024-03-31
+argatroban,Medication,116508003,SNOMEDCT-ES,2024-03-31
+bivalirudina,Medication,129498009,SNOMEDCT-ES,2024-03-31
+penbutolol,Medication,372505004,SNOMEDCT-ES,2024-03-31
+pentosano polisulfato,Medication,372571007,SNOMEDCT-ES,2024-03-31
+anticoagulante de acción directa,Medication,372636002,SNOMEDCT-ES,2024-03-31
+metoprolol,Medication,372826007,SNOMEDCT-ES,2024-03-31
+disopiramida,Medication,372844004,SNOMEDCT-ES,2024-03-31
+esmolol,Medication,372847006,SNOMEDCT-ES,2024-03-31
+mexiletina,Medication,372909002,SNOMEDCT-ES,2024-03-31
+sotalol,Medication,372911006,SNOMEDCT-ES,2024-03-31
+inhibidor de HMG-CoA reductasa,Medication,372912004,SNOMEDCT-ES,2024-03-31
+agente betabloqueante,Medication,373254001,SNOMEDCT-ES,2024-03-31
+heparina de bajo peso molecular,Medication,373294004,SNOMEDCT-ES,2024-03-31
+milrinona,Medication,373441005,SNOMEDCT-ES,2024-03-31
+cerivastatina,Medication,373443008,SNOMEDCT-ES,2024-03-31
+atorvastatina,Medication,373444002,SNOMEDCT-ES,2024-03-31
+metipranolol,Medication,373446000,SNOMEDCT-ES,2024-03-31
+fondaparinux sódico,Medication,385517000,SNOMEDCT-ES,2024-03-31
+topiramato,Medication,386844006,SNOMEDCT-ES,2024-03-31
+sulfato de penbutolol,Medication,386865000,SNOMEDCT-ES,2024-03-31
+carteolol,Medication,386866004,SNOMEDCT-ES,2024-03-31
+ticlopidina,Medication,386950000,SNOMEDCT-ES,2024-03-31
+abciximab,Medication,386951001,SNOMEDCT-ES,2024-03-31
+dipiridamol,Medication,387371005,SNOMEDCT-ES,2024-03-31
+fenitoína sódica,Medication,387416005,SNOMEDCT-ES,2024-03-31
+practolol,Medication,387436006,SNOMEDCT-ES,2024-03-31
+acenocumarol,Medication,387457003,SNOMEDCT-ES,2024-03-31
+aspirina,Medication,387458008,SNOMEDCT-ES,2024-03-31
+digoxina,Medication,387461009,SNOMEDCT-ES,2024-03-31
+lidocaína,Medication,387480006,SNOMEDCT-ES,2024-03-31
+nadolol,Medication,387482003,SNOMEDCT-ES,2024-03-31
+atenolol,Medication,387506000,SNOMEDCT-ES,2024-03-31
+digitálico,Medication,387521006,SNOMEDCT-ES,2024-03-31
+fluvastatina,Medication,387585004,SNOMEDCT-ES,2024-03-31
+iloprost,Medication,395740002,SNOMEDCT-ES,2024-03-31
+reviparina sódica,Medication,395864005,SNOMEDCT-ES,2024-03-31
+certoparina sódica,Medication,395884009,SNOMEDCT-ES,2024-03-31
+tinzaparina sódica,Medication,395908006,SNOMEDCT-ES,2024-03-31
+bemiparina sódica,Medication,410967005,SNOMEDCT-ES,2024-03-31
+bisulfato de clopidogrel,Medication,412354008,SNOMEDCT-ES,2024-03-31
+hirudina,Medication,414407009,SNOMEDCT-ES,2024-03-31
+bloqueador del canal de potasio,Medication,415152007,SNOMEDCT-ES,2024-03-31
+ximelagatrán,Medication,415853004,SNOMEDCT-ES,2024-03-31
+anticoagulante de acción indirecta,Medication,419847008,SNOMEDCT-ES,2024-03-31
+cumafurilo,Medication,421212007,SNOMEDCT-ES,2024-03-31
+ivabradina,Medication,421228002,SNOMEDCT-ES,2024-03-31
+rivaroxabán,Medication,442031002,SNOMEDCT-ES,2024-03-31
+treprostinilo,Medication,443570007,SNOMEDCT-ES,2024-03-31
+pitavastatina,Medication,443586000,SNOMEDCT-ES,2024-03-31
+sulodexida,Medication,698844007,SNOMEDCT-ES,2024-03-31
+dabigatrán etexilato mesilato,Medication,700039002,SNOMEDCT-ES,2024-03-31
+pitavastatina cálcica,Medication,700402009,SNOMEDCT-ES,2024-03-31
+empagliflozina,Medication,703894008,SNOMEDCT-ES,2024-03-31
+fondaparinux,Medication,708189008,SNOMEDCT-ES,2024-03-31
+vorapaxar,Medication,708718003,SNOMEDCT-ES,2024-03-31
+hexobendina,Medication,710319000,SNOMEDCT-ES,2024-03-31
+cangrelor,Medication,716118009,SNOMEDCT-ES,2024-03-31
+tertatolol,Medication,716124003,SNOMEDCT-ES,2024-03-31
+indobufén,Medication,717166005,SNOMEDCT-ES,2024-03-31
+selexipag,Medication,717359004,SNOMEDCT-ES,2024-03-31
+atorvastatina cálcica trihidratada,Medication,725658002,SNOMEDCT-ES,2024-03-31
+clorhidrato de clopidogrel,Medication,734471009,SNOMEDCT-ES,2024-03-31
+ertugliflozina,Medication,764274008,SNOMEDCT-ES,2024-03-31
+dapagliflozina propanodiol monohidrato,Medication,783086004,SNOMEDCT-ES,2024-03-31
+proteína C humana,Medication,784406001,SNOMEDCT-ES,2024-03-31
+caplacizumab,Medication,784411004,SNOMEDCT-ES,2024-03-31
+prasugrel besilato,Medication,1149423007,SNOMEDCT-ES,2024-03-31
+ertugliflozina pidolato,Medication,1162393006,SNOMEDCT-ES,2024-03-31
+antagonista de receptor plaquetario P2Y12 ligado a proteína G,Medication,1162905001,SNOMEDCT-ES,2024-03-31
+antagonista de receptor plaquetario de glicoproteína-IIb/IIIa,Medication,1162907009,SNOMEDCT-ES,2024-03-31
+clorhidrato de lidocaína monohidrato,Medication,1217602005,SNOMEDCT-ES,2024-03-31
+(S)-metoprolol,Medication,1240343008,SNOMEDCT-ES,2024-03-31
+canagliflozina anhidro,Medication,1268978008,SNOMEDCT-ES,2024-03-31
+fenitoína cálcica,Medication,445821000221103,SNOMEDCT-ES,2024-03-31

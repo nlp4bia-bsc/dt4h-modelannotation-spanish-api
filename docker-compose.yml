@@ -1,11 +1,11 @@
 services:
   dt4h-modelannotation-api:
-    container_name: dt4h-modelannotation-api
+    container_name: dt4h-modelannotation-spanish-api
     build: .
     user: root
     environment:
       DICTIONARY_FILE:
-      LANGUAGE: en
+      LANGUAGE: es
     ports:
       - 8000:8000
     volumes:
