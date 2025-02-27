@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from flasgger import Swagger
 from app.models.dictionary_baseline import DictionaryLookupModel
+import sys
 
 app = Flask(__name__)
 swagger = Swagger(app)
@@ -90,7 +91,7 @@ def process_bulk():
         if not text:
             return jsonify({"error": "Each item must contain 'text'"}), 400
 
-        result = model.predict(text, app)
+        result = model.predict(text, app, item.get('footer'))
         results.append(result)
 
     return jsonify(results)

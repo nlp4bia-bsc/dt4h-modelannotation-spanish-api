@@ -7,23 +7,23 @@ class ModelAnnotation(ABC):
     def predict(self, text, app):
         pass
 
-    def serialize(self, text, annotations):
+    def serialize(self, text, annotations, footer):
         """This function implements the Common Data Model v2"""
         output = {
             "nlp_output": {
                 "record_metadata": {
-                    "clinical_site_id": "example_site",
-                    "patient_id": "patient_id",
-                    "admission_id": "",
-                    "record_id": "patient_id",
-                    "record_type": "progress report",
-                    "record_format": "txt",
-                    "record_creation_date": datetime.now().isoformat(),
+                    "clinical_site_id": footer['provider_id'],
+                    "patient_id": footer['person_id'],
+                    "admission_id": footer['visit_detail_id'],
+                    "record_id": footer['note_id'],
+                    "record_type": footer['note_type_concept_id'],
+                    "record_format": "json",
+                    "record_creation_date": footer['note_datetime'],
                     "record_lastupdate_date": datetime.now().isoformat(),
                     "record_character_encoding": "UTF-8",
                     "record_extraction_date": datetime.now().isoformat(),
-                    "report_section": "",
-                    "report_language": "en",
+                    "report_section": footer['note_title'],
+                    "report_language": "es",
                     "deidentified": "no",
                     "deidentification_pipeline_name": "",
                     "deidentification_pipeline_version": "",
